@@ -1,2 +1,2 @@
 # GOL
-A java Game of Life 
+A Python 3.x Game of Life 
